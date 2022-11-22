@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&color=78d2ee&height=200&section=header&text=Gil%20Jae%20Hyun&fontSize=60&fontcolor=d6ace6)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=421ac0&height=250&section=header&text=Gil%20Jae%20Hyun&fontSize=60&fontcolor=000000)
 
 
 
