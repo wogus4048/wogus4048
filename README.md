@@ -3,7 +3,7 @@
 
 
 
-<a href="[https://rare-octopus-e8f.notion.site/Gil-Jae-Hyun-b5dbd77ac93c4fc19f0f25c4a0612e2e](https://rare-octopus-e8f.notion.site/b5dbd77ac93c4fc19f0f25c4a0612e2e)"><img src="https://img.shields.io/badge/Notion-8B89CC?style=flat-square&logo=Notion&logoColor=white"/></a> &#160; <a href="https://keeeeeepgoing.tistory.com/"><img src="https://img.shields.io/badge/Tistory-7952B3?style=flat-square&logo=Tistory&logoColor=white"/></a>
+<a href="https://rare-octopus-e8f.notion.site/b5dbd77ac93c4fc19f0f25c4a0612e2e"><img src="https://img.shields.io/badge/Notion-8B89CC?style=flat-square&logo=Notion&logoColor=white"/></a> &#160; <a href="https://keeeeeepgoing.tistory.com/"><img src="https://img.shields.io/badge/Tistory-7952B3?style=flat-square&logo=Tistory&logoColor=white"/></a>
 
 
 
